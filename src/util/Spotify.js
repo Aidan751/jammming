@@ -1,5 +1,5 @@
-let clientId = '2213c3adaa864019af0d2320b006a14f';
-let redirectUri = 'http://scandalous-vacation.surge.sh';
+let clientId = '';
+let redirectUri = '';
 
 
 let accessToken;
